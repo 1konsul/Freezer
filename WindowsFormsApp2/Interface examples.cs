@@ -10,7 +10,7 @@ namespace WindowsFormsApp2
 
     interface IFreeze
     {
-        string Freeze();
+        string Freeze();// this is test comment
         
         int FreezingTemperature { get; set; }
     }
